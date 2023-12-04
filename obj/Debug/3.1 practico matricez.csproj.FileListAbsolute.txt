@@ -1,0 +1,9 @@
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\3.1 practico matricez\bin\Debug\3.1 practico matricez.exe.config
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\3.1 practico matricez\bin\Debug\3.1 practico matricez.exe
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\3.1 practico matricez\bin\Debug\3.1 practico matricez.pdb
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\3.1 practico matricez\obj\Debug\3.1 practico matricez.csprojResolveAssemblyReference.cache
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\3.1 practico matricez\obj\Debug\_3._1_practico_matricez.Form1.resources
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\3.1 practico matricez\obj\Debug\_3._1_practico_matricez.Properties.Resources.resources
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\3.1 practico matricez\obj\Debug\3.1 practico matricez.csproj.GenerateResource.Cache
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\3.1 practico matricez\obj\Debug\3.1 practico matricez.exe
+C:\Users\MIGUEL\Desktop\UNIVERSITY\MOLLO PROGRAM 1\3.1 practico matricez\obj\Debug\3.1 practico matricez.pdb
